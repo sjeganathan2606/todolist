@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/todo-list",
+  "homepage": "https://sjeganathan2606.github.io/todolist",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
